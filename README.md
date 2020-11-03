@@ -2,7 +2,7 @@
 
 # covid19zeitmarker
 
-Hier werden Zeitmarker für covid19 Visualisierungen gesammelt. 
+Hier werden Zeitmarker für covid19-Visualisierungen gesammelt. 
 
 
 # Lizenzen
