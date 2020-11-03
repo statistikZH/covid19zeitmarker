@@ -2,7 +2,7 @@
 
 # covid19zeitmarker
 
-Hier werden Zeitmarker für covid19-Visualisierungen gesammelt. <br>
+Hier werden Zeitmarker für covid19-Visualisierungen gesammelt: <br>
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1fsZyTlUHXqZl6hteCssbIHV8rTGnU4POmOVhvW2_yuQ/edit#gid=0) <br>
 - [csv](https://github.com/statistikZH/covid19zeitmarker/blob/master/covid19zeitmarker.csv)
 
