@@ -23,6 +23,7 @@ Datum,Raum,Kategorisierung,Beschreibung,Link
 2021-05-31,CH,Lockerung,Eintritt Stabilisierungsphase,https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-83697.html
 2021-06-26,CH,Lockerung,"Ende Home-Office-Pflicht, keine Personenbeschränkungen, keine Maskenpflicht im Büro",https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-84127.html
 2021-09-13,CH,Ausweitung,Zertifikatspflicht,https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-85035.html
+2021-12-06,CH,Ausweitung,"Ausdehnung Zertifikats- und Maskenpflicht, 2G möglich",https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-86260.html
 2020-07-03,Bezirk Zürich,Ferien,Sommerferien Start,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2020_2021/schulferiendaten_zuerich.pdf
 2020-08-14,Bezirk Zürich,Ferien,Sommerferien Ende,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2020_2021/schulferiendaten_zuerich.pdf
 2020-10-08,Bezirk Zürich,Ferien,Herbstferien Start,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2020_2021/schulferiendaten_zuerich.pdf
@@ -35,3 +36,13 @@ Datum,Raum,Kategorisierung,Beschreibung,Link
 2021-05-07,Bezirk Zürich,Ferien,Frühlingsferien Ende,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2019_2020/schulferiendaten_zuerich.pdf
 2021-07-19,Bezirk Zürich,Ferien,Sommerferien Start,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2019_2020/schulferiendaten_zuerich.pdf
 2021-08-20,Bezirk Zürich,Ferien,Sommerferien Ende,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2019_2020/schulferiendaten_zuerich.pdf
+2021-10-11,Bezirk Zürich,Ferien,Herbstferien Start,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2021-10-22,Bezirk Zürich,Ferien,Herbstferien Ende,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2021-12-20,Bezirk Zürich,Ferien,Weihnachtsferien Start,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2021-12-31,Bezirk Zürich,Ferien,Weihnachtsferien Ende,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2022-02-14,Bezirk Zürich,Ferien,Sporferien Start,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2022-02-25,Bezirk Zürich,Ferien,Sportferien Ende,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2022-04-18,Bezirk Zürich,Ferien,Frühlingsferien Start,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2022-04-29,Bezirk Zürich,Ferien,Frühlingsferien Ende,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2022-07-18,Bezirk Zürich,Ferien,Sommerferien Start,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
+2022-08-19,Bezirk Zürich,Ferien,Sommerferien Ende,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/bildung/bildungssystem/schulferien/volksschulen/2021_2022/ferien_stadt_zuerich_2021_2022.pdf
